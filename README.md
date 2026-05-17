@@ -17,4 +17,4 @@ Plataforma Web Institucional y Portfolio Profesional diseñado para la consolida
 * JavaScript puro (Interacciones dinámicas en la interfaz de usuario).
 
 ---
-*Proyecto profesional de desarrollo web institucional realizado de forma freelance para Marca Personal (Año 2026).*
+*Proyecto profesional de desarrollo web realizado de forma freelance para Marca Personal (Año 2026).*
